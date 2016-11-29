@@ -1,0 +1,96 @@
+body {
+  padding: 50px;
+}
+
+p {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+h5 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+h5 i {
+  font-size: 11px;
+}
+
+.profile-image {
+  height: 250px;
+}
+
+.section-lg {
+  width: 99%;
+  border-bottom: 1px solid lightgrey;
+  overflow:auto; 
+}
+
+.section-md {
+  float: left;
+  width: 63%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.section-sm {
+  float: left;
+  width: 33%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.subsection {
+  margin-bottom: 30px;
+  padding-left: 20px;
+}
+
+.intro .section-sm {
+  height: 250px;
+  width: 25%;
+}
+
+.skill-bar {
+  height: 20px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+
+.progress-bar {
+  float: left;
+  width: 0;
+  height: 100%;
+  font-size: 12px;
+}
+
+.progress-bar-dark {
+  background-color: #3a749e;
+}
+
+.progress-bar-light {
+    background-color: #4ba7e1;
+}
+
+.progress-bar-50 {
+  width: 50%;
+}
+
+.progress-bar-60 {
+  width: 50%;
+}
+
+.progress-bar-90 {
+  width: 90%;
+}
+
+.progress-bar-80 {
+  width: 80%;
+}
