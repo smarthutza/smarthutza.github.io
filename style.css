@@ -8,10 +8,10 @@ p {
 }
 
 h1 {
-  margin-top: 0;
+  margin-top: 80px;
 }
 
-h5 {
+h4, h5 {
   margin-bottom: 0;
   margin-top: 0;
 }
@@ -20,14 +20,27 @@ h5 i {
   font-size: 11px;
 }
 
-.profile-image {
+a {
+  color: #3a749e;
+}
+
+.profile-image.section-sm, .profile-image img {
   height: 250px;
+  width: 277px;
+}
+
+.intro {
+  height: 250px;
+}
+
+.contact {
+  margin-top: 145px;
 }
 
 .section-lg {
   width: 99%;
   border-bottom: 1px solid lightgrey;
-  overflow:auto; 
+  overflow:auto;
 }
 
 .section-md {
@@ -51,11 +64,6 @@ h5 i {
   padding-left: 20px;
 }
 
-.intro .section-sm {
-  height: 250px;
-  width: 25%;
-}
-
 .skill-bar {
   height: 20px;
   margin-bottom: 20px;
@@ -76,7 +84,7 @@ h5 i {
 }
 
 .progress-bar-light {
-    background-color: #4ba7e1;
+  background-color: #4ba7e1;
 }
 
 .progress-bar-50 {
@@ -84,7 +92,7 @@ h5 i {
 }
 
 .progress-bar-60 {
-  width: 50%;
+  width: 60%;
 }
 
 .progress-bar-90 {
