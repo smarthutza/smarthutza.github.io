@@ -1,5 +1,8 @@
 body {
-  padding: 50px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 p {
@@ -22,6 +25,10 @@ h5 i {
 
 a {
   color: #3a749e;
+}
+
+p {
+  font-size: 18px;
 }
 
 .profile-image.section-sm, .profile-image img {
