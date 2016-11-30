@@ -109,3 +109,8 @@ p {
 .progress-bar-80 {
   width: 80%;
 }
+
+.see-more {
+  float: right;
+  margin-top: 340px;
+}
